@@ -20,8 +20,8 @@ export const ROUTES: RouteInfo[] = [
     icon: "ni-tv-2 text-primary",
     class: "",
   },
-  // { path: "/icons", title: "Icons", icon: "ni-planet text-blue", class: "" },
-  { path: "/maps", title: "Maps", icon: "ni-pin-3 text-orange", class: "" },
+  // { path: "/icons", title: "Icons", icon: ""ni ni-folder-17", class: "" },
+  { path: "/maps", title: "All bids", icon: "ni ni-folder-17", class: "" },
   {
     path: "/user-profile",
     title: "Profile",
